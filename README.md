@@ -1,6 +1,6 @@
 # Localization-Grounded Supervision: Revisiting Vanilla SFT of Large Vision-Language Models for Medical Image Analysis
 
-[![arXiv](https://img.shields.io/badge/Arxiv-xxxx.xxxxx-b31b1b.svg?logo=arXiv)](TBD) [![hf_space](https://img.shields.io/badge/🤗-%20Open%20In%20HF-blue.svg)](https://huggingface.co/datasets/shiym2000/LGS) [![License](https://img.shields.io/badge/License-Apache%202.0-yellow)](./LICENSE)
+[![hf_space](https://img.shields.io/badge/🤗-%20Open%20In%20HF-blue.svg)](https://huggingface.co/datasets/shiym2000/LGS) [![License](https://img.shields.io/badge/License-Apache%202.0-yellow)](./LICENSE)
 
 ![overall](./assets/overall.png)
 
