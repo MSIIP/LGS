@@ -23,7 +23,7 @@ pip install 'ms-swift[all]' -U
 
 ## :rocket: Getting Started
 
-Take [**LUNA16**](https://github.com/tangyuhao2016/CTRG) as an example:
+Take [**LUNA16**](https://luna16.grand-challenge.org/Download) as an example:
 
 ### 1. Dataset construction
 
