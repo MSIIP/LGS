@@ -57,7 +57,7 @@ TBD
 ## :heart: Acknowledgements
 
 We would like to express our gratitude to the following resources:
-+ [**LUNA16**](https://luna16.grand-challenge.org/Download) - Chest CT dataset 3D lung nodule segmentation masks.
++ [**LUNA16**](https://luna16.grand-challenge.org/Download) - Chest CT dataset with 3D lung nodule segmentation masks.
 + [**CrossMoDA2021**](https://crossmoda.grand-challenge.org) - MRI dataset with 3D vestibular schwannoma segmentation masks.
 + [**CT-RATE**](https://huggingface.co/datasets/ibrahimhamamci/CT-RATE) - Chest CT dataset with radiology reports.
 + [**RadGenome-Chest CT**](https://huggingface.co/datasets/RadGenome/RadGenome-ChestCT) - Chest CT dataset with grounded radiology reports.
